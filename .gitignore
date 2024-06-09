@@ -76,5 +76,5 @@ crashlytics-build.properties
 # ##
 
 # IGNORE README ASSET
-README.assets/
-*.gif
+# README.assets/
+# *.gif
