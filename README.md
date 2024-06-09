@@ -20,7 +20,9 @@ Spitting-Alpaca는 Casual 3D 멀티플레이 게임으로, 복잡한 설정이�
 <details>
 <summary><a><b>About Spitting-Alpaca</b></a> </summary>
 
-![UCC](/README.assets/[GIF]Spitting-Alpaca.gif)   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YxXRvFIxmjY?si=TyRLF7HIL8-MaSxk" frameborder="0" allowfullscreen></iframe>
+
+[https://www.youtube.com/watch?v=YxXRvFIxmjY](https://youtu.be/YxXRvFIxmjY?si=NNDYSoDmjt7DPEQE)
 </details>
 <br>   
    
@@ -80,7 +82,8 @@ Spitting-Alpaca는 Casual 3D 멀티플레이 게임으로, 복잡한 설정이�
   </details> 
   <details>
   <summary>:round_pushpin: 호르몬 : 플레이어 알파카를 탐지 </summary>
-    ![hormone](/README.assets/[GIF]호르몬.gif)  
+     
+    ![hormone](/README.assets/[GIF]호르몬.gif)
   </details>
   <br> 
 
