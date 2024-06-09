@@ -19,10 +19,9 @@ Spitting-Alpaca는 Casual 3D 멀티플레이 게임으로, 복잡한 설정이�
 ## :camera: 소개 영상
 <details>
 <summary><a><b>About Spitting-Alpaca</b></a> </summary>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YxXRvFIxmjY?si=TyRLF7HIL8-MaSxk" frameborder="0" allowfullscreen></iframe>
-
-[https://www.youtube.com/watch?v=YxXRvFIxmjY](https://youtu.be/YxXRvFIxmjY?si=NNDYSoDmjt7DPEQE)
+   
+![UCC](/README.assets/[GIF]Spitting-Alpaca.gif)
+[[https://www.youtube.com/watch?v=YxXRvFIxmjY](https://youtu.be/YxXRvFIxmjY?si=NNDYSoDmjt7DPEQE)](https://youtu.be/YxXRvFIxmjY?si=fQ6HGoadHFdtEHQs)
 </details>
 <br>   
    
